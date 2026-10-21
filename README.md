@@ -3,11 +3,11 @@
 > [!NOTE]
 > The pcb section is not finished / I probably won't complete the PCB for this project. They are just there because I made them, and maybe at somepoint someone would want to finish it. The schematic is finished if people want to look at that to base a project off of.
 
-##Features
+## Features
 - 34 keys
 - 6.25u spacebar
 - qaz style leftmost column
-- ISO key!!
+- ISO Enter key!!
 - handwired (my build)
 - 10.25u
 - Case
@@ -24,3 +24,7 @@ Cool photos here...
 <p float="left">
     <img src="photos/wiring-guide.png" width="1005">
 </p>
+
+
+## KLE
+The KLE(keyboard layout editor) files are in the kle folder. There is also a 10u version with the small iso enter key. This is a lot like the TEAQAZ from dashkeebs. And then v3 is just something else that probably should never be made...
